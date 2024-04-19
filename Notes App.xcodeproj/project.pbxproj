@@ -13,6 +13,8 @@
 		A2B4B1942BD187EF00DB0913 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2B4B1932BD187EF00DB0913 /* Assets.xcassets */; };
 		A2B4B1972BD187EF00DB0913 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2B4B1962BD187EF00DB0913 /* Preview Assets.xcassets */; };
 		A2B4B1A22BD18CE200DB0913 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B4B1A12BD18CE200DB0913 /* Note.swift */; };
+		A2B4B1A42BD2773D00DB0913 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B4B1A32BD2773D00DB0913 /* DetailView.swift */; };
+		A2B4B1A62BD2993800DB0913 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B4B1A52BD2993800DB0913 /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		A2B4B1932BD187EF00DB0913 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2B4B1962BD187EF00DB0913 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A2B4B1A12BD18CE200DB0913 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Note.swift; path = Models/Note.swift; sourceTree = "<group>"; };
+		A2B4B1A32BD2773D00DB0913 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		A2B4B1A52BD2993800DB0913 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,9 +86,11 @@
 			children = (
 				A2B4B18F2BD187EC00DB0913 /* Notes_AppApp.swift */,
 				A2B4B1912BD187EC00DB0913 /* ContentView.swift */,
+				A2B4B1A32BD2773D00DB0913 /* DetailView.swift */,
+				A2B4B1A12BD18CE200DB0913 /* Note.swift */,
+				A2B4B1A52BD2993800DB0913 /* test.swift */,
 				A2B4B1932BD187EF00DB0913 /* Assets.xcassets */,
 				A2B4B1952BD187EF00DB0913 /* Preview Content */,
-				A2B4B1A12BD18CE200DB0913 /* Note.swift */,
 			);
 			path = "Notes App Watch App";
 			sourceTree = "<group>";
@@ -196,7 +202,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2B4B1922BD187EC00DB0913 /* ContentView.swift in Sources */,
+				A2B4B1A42BD2773D00DB0913 /* DetailView.swift in Sources */,
 				A2B4B1902BD187EC00DB0913 /* Notes_AppApp.swift in Sources */,
+				A2B4B1A62BD2993800DB0913 /* test.swift in Sources */,
 				A2B4B1A22BD18CE200DB0913 /* Note.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
