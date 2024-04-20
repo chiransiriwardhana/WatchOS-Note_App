@@ -11,6 +11,7 @@ struct CreditView: View {
     var body: some View {
         VStack(spacing: 3) {
             HeaderView(title: "Credits")
+            ////
         }
     }
 }
