@@ -15,3 +15,10 @@
 
 <img width="292" alt="Screenshot 2024-04-19 at 6 30 09 PM" src="https://github.com/chiransiriwardhana/WatchOS-Note_App/assets/47823522/119829db-e201-4eb8-9ec7-9175defd9b73">
 <img width="287" alt="Screenshot 2024-04-19 at 6 30 46 PM" src="https://github.com/chiransiriwardhana/WatchOS-Note_App/assets/47823522/0fee2e84-676a-4866-9c2a-a8871f5e856f">
+
+## credit view
+
+you can go to credit view by clicking info icon at bottom right
+
+<img width="301" alt="Screenshot 2024-04-20 at 3 34 07 AM" src="https://github.com/chiransiriwardhana/WatchOS-Note_App/assets/47823522/8560b475-7dbf-4f9d-92dc-34d9217e32c7">
+<img width="297" alt="Screenshot 2024-04-20 at 3 34 57 AM" src="https://github.com/chiransiriwardhana/WatchOS-Note_App/assets/47823522/02835a10-011a-4ced-96f6-5e4c08ef5a53">
