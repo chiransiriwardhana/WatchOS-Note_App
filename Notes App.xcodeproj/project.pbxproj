@@ -44,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A226FB292BE5E4F8005416D5 /* Notes-App-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Notes-App-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
 		A2B4B1842BD187EC00DB0913 /* Notes App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Notes App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2B4B18A2BD187EC00DB0913 /* Notes App Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Notes App Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2B4B18F2BD187EC00DB0913 /* Notes_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes_AppApp.swift; sourceTree = "<group>"; };
@@ -88,6 +89,7 @@
 		A2B4B18E2BD187EC00DB0913 /* Notes App Watch App */ = {
 			isa = PBXGroup;
 			children = (
+				A226FB292BE5E4F8005416D5 /* Notes-App-Watch-App-Info.plist */,
 				A2B4B18F2BD187EC00DB0913 /* Notes_AppApp.swift */,
 				A2B4B1912BD187EC00DB0913 /* ContentView.swift */,
 				A2B4B1A32BD2773D00DB0913 /* DetailView.swift */,
@@ -353,7 +355,10 @@
 				DEVELOPMENT_TEAM = VKHJ4DVPPS;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Notes-App-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Notes App";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please use microphone";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Please allow access";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -383,7 +388,10 @@
 				DEVELOPMENT_TEAM = VKHJ4DVPPS;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Notes-App-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Notes App";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please use microphone";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Please allow access";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (

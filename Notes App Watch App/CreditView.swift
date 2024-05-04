@@ -17,7 +17,7 @@ struct CreditView: View {
 
             Image("Star")
                 .resizable()
-                .scaledToFill()
+                .scaledToFit()
                 .layoutPriority(1)
             
             HeaderView(title: "Credits")

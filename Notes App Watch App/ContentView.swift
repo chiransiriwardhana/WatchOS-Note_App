@@ -53,6 +53,7 @@ struct ContentView: View {
             VStack {
                 HStack(alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/, spacing: 6) {
                     TextField("Add new note", text: $text)
+
                     Button {
 
                         guard text.isEmpty == false else { return }
